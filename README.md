@@ -5,7 +5,7 @@ Desenvolvido por **Gabriel Cortes Cassiano Pereira**
 
 email: ccpereiragabriel@gmail.com
 
-## [Relatório do projeto](Relatório/Relatório_CoolingPad_GabrielCortes_2019000330)
+## [Relatório do projeto](Relatório/Relatório_CoolingPad_GabrielCortes_2019000330.pdf)
 
-## [Arquivo .hex](Hex/ProjetoCoolingPad.X.production)
+## [Arquivo .hex](Hex/ProjetoCoolingPad.X.production.hex)
 O arquivo .hex pode ser utilizado para executar o programa no simulador [PICSimLab](https://github.com/lcgamboa/picsimlab), no qual o projeto foi desenvolvido.
