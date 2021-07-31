@@ -5,6 +5,8 @@ Desenvolvido por **Gabriel Cortes Cassiano Pereira**
 
 email: ccpereiragabriel@gmail.com
 
+Vídeo explicativo: https://youtu.be/ha8cp1iyAGc
+
 ## [Relatório do projeto](Relatório/Relatório_CoolingPad_GabrielCortes_2019000330.pdf)
 
 ## [Arquivo .hex](Hex/ProjetoCoolingPad.X.production.hex)
